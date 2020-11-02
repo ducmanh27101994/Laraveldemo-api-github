@@ -39,5 +39,8 @@ class GithubController extends Controller
 
     }
 
+    function test(){
+
+    }
 
 }
